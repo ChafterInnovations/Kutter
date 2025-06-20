@@ -148,7 +148,7 @@ The WebSocket server handles message sending and deletion. The API expects the f
 
 ## License
 
-This project is licensed under the ISC License - see the LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - see the LICENSE file for details. This means any distributed work based on this project must also be open source.
 
 ## About
 
